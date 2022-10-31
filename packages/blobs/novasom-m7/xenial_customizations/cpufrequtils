@@ -1,0 +1,5 @@
+upgrade
+ENABLE=true
+MIN_SPEED=408000
+MAX_SPEED=1200000
+GOVERNOR=powersave
